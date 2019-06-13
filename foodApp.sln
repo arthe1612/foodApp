@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foodApp.Web", "foodApp.Web\foodApp.Web.csproj", "{10F0CC09-C480-4D9D-A8BB-2DA8C1C263A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foodApp.WebApi", "foodApp.WebApi\foodApp.WebApi.csproj", "{C6629842-DEDD-43EE-A106-66AFF1A33DF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{10F0CC09-C480-4D9D-A8BB-2DA8C1C263A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10F0CC09-C480-4D9D-A8BB-2DA8C1C263A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10F0CC09-C480-4D9D-A8BB-2DA8C1C263A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6629842-DEDD-43EE-A106-66AFF1A33DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6629842-DEDD-43EE-A106-66AFF1A33DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6629842-DEDD-43EE-A106-66AFF1A33DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6629842-DEDD-43EE-A106-66AFF1A33DF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
